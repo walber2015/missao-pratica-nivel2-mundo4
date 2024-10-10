@@ -184,7 +184,7 @@ class MyApp extends StatelessWidget {
 
               height: 240,
 
-              fit: BoxFit.cover,
+             fit: BoxFit.cover,
 
             ),
 
